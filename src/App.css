@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+.todoitem{
+  margin: 10px auto;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  width: 380px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: teal;
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+  
+
+}
+.todoinput{
+  width: 350px;
+  margin-top: 20px;
+}
+.btn{
+border: 0;
+
+}
+.del{
+background-color: brown;
+}
+.com{
+background-color: yellowgreen;
+}
+.fev{
+background-color: yellowgreen;
+}
+.add{
+  background-color: teal;
+  padding: 3px 10px;
+}
+*{
+  background-color: lavenderblush;
+}
